@@ -69,6 +69,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain CSS sprites, and how you would implement them on a page or site.
 * What are your favourite image replacement techniques and which do you use when?
 * How would you approach fixing browser-specific styling issues?
+*   - http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/
 * How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
 * What are the different ways to visually hide content (and make it available only for screen readers)?
